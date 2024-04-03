@@ -1,4 +1,5 @@
 # Billboard.nvim
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Billboard is a minimal Neovim greeter that displays text on the startup page.
 
