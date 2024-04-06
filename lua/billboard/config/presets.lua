@@ -1,6 +1,16 @@
 local M = {
   render = {
-    lines = { "Neovim!" },
+    { content = { "Neovim!" } },
+  },
+
+  alignment = {
+    vertical = "center",
+    horizontal = "center",
+  },
+
+  highlight = {
+    guifg = "",
+    guibg = "",
   },
 }
 
